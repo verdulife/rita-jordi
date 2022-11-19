@@ -8,7 +8,7 @@
 	@import 'https://cdn.jsdelivr.net/gh/verdulife/utility-classes/dist/reset.css';
 	@import 'https://cdn.jsdelivr.net/gh/verdulife/utility-classes/dist/utility-classes.css';
 	@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
-	@import url('/fonts/vintage-ink.css');
+	@import url('fonts/vintage-ink.css');
 
 	:root {
 		--font-title: 'VintageInk';
