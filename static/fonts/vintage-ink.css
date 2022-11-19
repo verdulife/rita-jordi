@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'VintageInk';
-	src: url('./VintageInk.woff2') format('woff2'), url('./VintageInk.woff') format('woff'),
-		url('./VintageInk.ttf') format('truetype');
+	src: url('VintageInk.woff2') format('woff2'), url('VintageInk.woff') format('woff'),
+		url('VintageInk.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
