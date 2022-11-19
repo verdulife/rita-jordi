@@ -11,7 +11,7 @@
 </script>
 
 <section id="land" class="col xfill">
-	<img class="contain xfill" src="/chair.png" alt="Rita & Niubó" />
+	<img class="contain xfill" src="/chair-2.png" alt="Rita & Niubó" />
 
 	<article class="col xfill">
 		<h1 class="title tcenter xfill">Rita & Jordi</h1>
@@ -81,12 +81,9 @@
 	#land {
 		padding-bottom: 20%;
 
-		img {
-			mix-blend-mode: darken;
-		}
-
 		article {
 			gap: 20px;
+			margin-top: 20px;
 			padding: 0 20px;
 
 			h1 {
